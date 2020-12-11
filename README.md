@@ -1,6 +1,6 @@
-# template-repo-cpp
+# New problem
 
-Template project with the Makefile set up for autograding.
+This is a problem
 
 When creating the assigment, under the "Grading and feedback" section:
 1. Click "Add test".
